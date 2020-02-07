@@ -24,7 +24,7 @@ class Twitter:
                 sender_id = dm[x].message_create['sender_id']
                 message = dm[x].message_create['message_data']['text']
                 message_data = str(dm[x].message_create['message_data'])
-                _json = _json.encode_basestring(message_data)
+                json_data = _json.encode_basestring(message_data)
                 print(json_data)
                 print("Getting message -> "+str(message)+" by sender id "+str(sender_id))
 

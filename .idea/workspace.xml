@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b994c8c0-b2c4-4293-8a6a-e44c631df971" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XNcN5l7qWbRCsvf2NlgZmnEAHZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoDMBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="constants" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoDMBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/constants.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="twitter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoDMBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.twitter" />
+        <item itemvalue="Python.constants" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b994c8c0-b2c4-4293-8a6a-e44c631df971" name="Default Changelist" comment="" />
+      <created>1580889950268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580889950268</updated>
+      <workItem from="1580889959549" duration="14119000" />
+      <workItem from="1580921796224" duration="18593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="142" width="1060" height="486" key="DiffContextDialog" timestamp="1580970720320">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="110" y="142" width="1060" height="486" key="DiffContextDialog/0.23.1280.724@0.23.1280.724" timestamp="1580970720320" />
+    <state x="110" y="143" width="1060" height="488" key="DiffContextDialog/0.23.1280.728@0.23.1280.728" timestamp="1580903251079" />
+    <state width="1238" height="192" key="GridCell.Tab.0.bottom" timestamp="1581044655166">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="192" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580976757643" />
+    <state width="1238" height="192" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1581044655166" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1580905297540" />
+    <state width="1238" height="192" key="GridCell.Tab.0.center" timestamp="1581044655165">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="192" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580976757641" />
+    <state width="1238" height="192" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1581044655165" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1580905297540" />
+    <state width="1238" height="192" key="GridCell.Tab.0.left" timestamp="1581044655164">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="192" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580976757640" />
+    <state width="1238" height="192" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1581044655164" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1580905297539" />
+    <state width="1238" height="192" key="GridCell.Tab.0.right" timestamp="1581044655165">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="192" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580976757642" />
+    <state width="1238" height="192" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1581044655165" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1580905297540" />
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom" timestamp="1580932672489">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1580932672489" />
+    <state width="1238" height="224" key="GridCell.Tab.1.center" timestamp="1580932672488">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1580932672488" />
+    <state width="1238" height="224" key="GridCell.Tab.1.left" timestamp="1580932672488">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1580932672488" />
+    <state width="1238" height="224" key="GridCell.Tab.1.right" timestamp="1580932672489">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="224" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1580932672489" />
+    <state x="319" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1580921869240">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="319" y="218" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1580921869240" />
+    <state x="319" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.728@0.23.1280.728" timestamp="1580889988269" />
+    <state x="305" y="75" width="670" height="673" key="search.everywhere.popup" timestamp="1581044698133">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="305" y="75" width="670" height="673" key="search.everywhere.popup/0.23.1280.724@0.23.1280.724" timestamp="1581044698133" />
+    <state x="305" y="75" width="670" height="676" key="search.everywhere.popup/0.23.1280.728@0.23.1280.728" timestamp="1580903275200" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutoDMBase$twitter.coverage" NAME="twitter Coverage Results" MODIFIED="1580969904202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AutoDMBase$constants.coverage" NAME="constants Coverage Results" MODIFIED="1580968168135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AutoDMBase$app.coverage" NAME="app Coverage Results" MODIFIED="1581043860296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
